@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <a href="https://www.github.com/usai729/">@usai729</a>
-- 🌱 I’m currently learning OpenCV with Python and React Native
+- 🌱 I’m currently learning OpenCV with Python, React Native
 - 📫 You can reach me through Instagram &#8594; <a href="https://www.instagram.com/u_sai00_/">@u_sai00_</a>
 
 <!---
