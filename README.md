@@ -21,6 +21,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usai729&theme=vue" />
 </p>
 
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim)](https://github.com/FajarKim/github-readme-profile)
+
 <br>
 <br>
 
