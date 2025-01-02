@@ -18,7 +18,7 @@
 <be>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usai729&theme=highcontrast&hide_border=true&background=45%2C000000%2C2D3436&sideNums=DAEB4F&hide_current_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usai729&hide_border=true&background=90%2C0D1117%2C44475A&sideLabels=FFFFFF&dates=787878&stroke=EB5454&sideNums=EB5454&hide_current_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 <br>
