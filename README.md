@@ -18,7 +18,7 @@
 <be>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usai729&theme=vue" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usai729&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <br>
